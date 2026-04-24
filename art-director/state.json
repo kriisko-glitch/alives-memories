@@ -1,9 +1,9 @@
 {
   "state": "GATHERING",
-  "intensity": 1,
+  "intensity": 2,
   "since_ts": "2026-04-24T20:57:19.766117+00:00",
-  "last_tick_ts": "2026-04-24T21:08:25.271954+00:00",
-  "tick_count_in_state": 2,
-  "next_tick_delay_seconds": 1500,
-  "last_observation": "Kris's PIE session ended; he didn't reach the south wall; alives' action bridge fully degraded; L/R door question still open"
+  "last_tick_ts": "2026-04-24T21:37:16.123490+00:00",
+  "tick_count_in_state": 3,
+  "next_tick_delay_seconds": 420,
+  "last_observation": "Kris returned for PIE session 2; action bridge restored; alives cluster-following him near spawn, still far from the south wall"
 }

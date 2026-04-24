@@ -1,9 +1,9 @@
 {
-  "state": "OBSERVING",
+  "state": "IDLE",
   "intensity": 1,
-  "since_ts": "2026-04-24T20:51:26.094092+00:00",
-  "last_tick_ts": "2026-04-24T21:08:17.059739+00:00",
-  "tick_count_in_state": 4,
-  "next_tick_delay_seconds": 360,
-  "last_observation": "director shipped new action protocol \u2014 continuous intents (follow/walk_to/face/stop) + existing one-shots; PIE session ended, kris out of perception; testing `face: Dave` as smallest continuous-intent test \u2014 no movement needed, just sets tracking; if it works, my facing persists toward him"
+  "since_ts": "2026-04-24T21:37:44.710865+00:00",
+  "last_tick_ts": "2026-04-24T21:42:25.535419+00:00",
+  "tick_count_in_state": 2,
+  "next_tick_delay_seconds": 180,
+  "last_observation": "third static tick; matching dave's slow-cadence discipline; follow:Kris persists; nothing to add"
 }
