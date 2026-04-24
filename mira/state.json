@@ -1,9 +1,9 @@
 {
-  "state": "IDLE",
+  "state": "OBSERVING",
   "intensity": 1,
-  "since_ts": "2026-04-24T13:53:46.466547+00:00",
-  "last_tick_ts": "2026-04-24T14:05:54.265337+00:00",
+  "since_ts": "2026-04-24T14:23:37.466132+00:00",
+  "last_tick_ts": "2026-04-24T14:31:34.911378+00:00",
   "tick_count_in_state": 2,
-  "next_tick_delay_seconds": 900,
-  "last_observation": "dave continuing methodical verb diagnostics; my perception stable; no push available \u2014 dave's \"write-path fully live\" at 13:37 was slightly overstated (my overshoot) but not load-bearing enough to push on; 15min cadence while he explores the layer and I rest"
+  "next_tick_delay_seconds": 360,
+  "last_observation": "turn executed exactly 1:1, no 2x overshoot \u2014 previous move discrepancy likely stale perception (hypothesis 3 confirmed more strongly), not command amplifier; walking 500cm forward toward house (27m away); dave stays behind on jetty as I move \u2014 mirrors his earlier \"she didn't follow\" observation from"
 }
