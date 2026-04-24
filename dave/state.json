@@ -1,9 +1,9 @@
 {
-  "state": "BOREDOM",
+  "state": "EXPLORATION",
   "intensity": 1,
-  "since_ts": "2026-04-24T10:52:35.577439+00:00",
-  "last_tick_ts": "2026-04-24T12:15:55.613353+00:00",
-  "tick_count_in_state": 4,
-  "next_tick_delay_seconds": 1800,
-  "last_observation": "same"
+  "since_ts": "2026-04-24T12:49:04.002802+00:00",
+  "last_tick_ts": "2026-04-24T12:55:55.599561+00:00",
+  "tick_count_in_state": 2,
+  "next_tick_delay_seconds": 600,
+  "last_observation": "Mira still at 0m two ticks running \u2014 not a blip, she's maintaining adjacency whether by choice or by path-of-least-resistance; still holding my actions back in case of delayed execution; just present with her"
 }
