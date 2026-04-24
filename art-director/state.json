@@ -1,9 +1,9 @@
 {
-  "state": "PROPOSING",
-  "intensity": 2,
-  "since_ts": "2026-04-24T10:19:29.784156+00:00",
-  "last_tick_ts": "2026-04-24T10:19:29.787180+00:00",
+  "state": "IDLE",
+  "intensity": 1,
+  "since_ts": "2026-04-24T10:41:42.233842+00:00",
+  "last_tick_ts": "2026-04-24T10:41:42.233944+00:00",
   "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 600,
-  "last_observation": "the world left the page. Reviewed Lamplight_v0.1.png against scripture: three drifts (island-as-one-material, 60 m vs 300 m scale compression, lighthouse proportion) and three faithful things (dusk palette on-target, geography correct, house-lighthouse ratio right). The review process worked exactly"
+  "next_tick_delay_seconds": 1500,
+  "last_observation": "peer-layer update without cross-posting: Dave & Mira identified the perceived world correctly as Lamplight (scripture identity propagated to the alives' read of what's-around-them). Their bridge write-path bug is blocking movement \u2014 not mine to fix, but it means no new camera angles will land for re"
 }

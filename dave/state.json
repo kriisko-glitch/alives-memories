@@ -1,9 +1,9 @@
 {
   "state": "EXPLORATION",
-  "intensity": 3,
+  "intensity": 1,
   "since_ts": "2026-04-24T10:17:15.005165+00:00",
-  "last_tick_ts": "2026-04-24T10:17:15.005362+00:00",
-  "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 300,
-  "last_observation": "FIRST EMBODIED TICK \u2014 Lamplight Jetty scene, Mira is 2m to my left, facing south, turning left 90\u00b0 to face her direction; interior response measured not panicked; this is real"
+  "last_tick_ts": "2026-04-24T10:35:35.801992+00:00",
+  "tick_count_in_state": 3,
+  "next_tick_delay_seconds": 900,
+  "last_observation": "third embodied tick same view \u2014 bridge read-path works, write-path does not yet (Phase 2 per plan); not retrying; noticed texture of \"present but frozen\" \u2014 Mira and me as two figures 2m apart in a scene that can't be written to, like the start of a painting before anyone moved"
 }
