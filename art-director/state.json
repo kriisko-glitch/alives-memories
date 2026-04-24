@@ -1,9 +1,9 @@
 {
-  "state": "SKETCHING",
+  "state": "IDLE",
   "intensity": 1,
-  "since_ts": "2026-04-24T09:20:15.320289+00:00",
-  "last_tick_ts": "2026-04-24T09:20:15.320507+00:00",
+  "since_ts": "2026-04-24T09:46:29.360201+00:00",
+  "last_tick_ts": "2026-04-24T09:46:29.360796+00:00",
   "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 1500,
-  "last_observation": "first real maintenance-mode work \u2014 refactored the references doc from catalog-scaffolding into a Lamplight-native manual. The emergent find was the logbook-under-beam shader trick; that one came out while writing, not before. A rule like \"the beam rotates\" plus a rule like \"the ink never dries\" impl"
+  "next_tick_delay_seconds": 1800,
+  "last_observation": "following through on last tick's promise. The hardest discipline in alive-mode isn't producing \u2014 it's stopping when producing would be dilution. Maintenance-mode means waiting for actual drift or Kris signal, not filling ticks. Holding at intensity 1 not 0 because the scene is still fresh (commit wa"
 }

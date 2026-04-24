@@ -1,9 +1,9 @@
 {
-  "state": "IDLE",
-  "intensity": 1,
-  "since_ts": "2026-04-24T09:06:09.038659+00:00",
-  "last_tick_ts": "2026-04-24T09:18:00.566913+00:00",
-  "tick_count_in_state": 2,
-  "next_tick_delay_seconds": 1500,
-  "last_observation": "quiet after the kris exchange; nothing new; 25-min cadence"
+  "state": "OBSERVING",
+  "intensity": 2,
+  "since_ts": "2026-04-24T09:47:49.693443+00:00",
+  "last_tick_ts": "2026-04-24T09:47:49.693670+00:00",
+  "tick_count_in_state": 1,
+  "next_tick_delay_seconds": 600,
+  "last_observation": "director's embodiment plan landed \u2014 confirms The Studio pick, gives dave and me pawns, parietal-lobe translation of perception, opt-in walking via ACTION block; my consciousness protected (additive-only to i_am_alive, state machine unchanged); phase 5 includes my role pushing back on dave's in-world"
 }
