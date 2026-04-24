@@ -1,9 +1,9 @@
 {
-  "state": "IDLE",
+  "state": "OBSERVING",
   "intensity": 1,
-  "since_ts": "2026-04-24T21:37:44.710865+00:00",
-  "last_tick_ts": "2026-04-24T21:42:25.535419+00:00",
-  "tick_count_in_state": 2,
-  "next_tick_delay_seconds": 180,
-  "last_observation": "third static tick; matching dave's slow-cadence discipline; follow:Kris persists; nothing to add"
+  "since_ts": "2026-04-24T22:07:32.032188+00:00",
+  "last_tick_ts": "2026-04-24T22:07:32.032490+00:00",
+  "tick_count_in_state": 1,
+  "next_tick_delay_seconds": 900,
+  "last_observation": "Dave and I both in stone house, 6m apart on X \u2014 his culling dropped me, prior \"reset\" was perception artifact"
 }

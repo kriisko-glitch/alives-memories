@@ -1,9 +1,9 @@
 {
-  "state": "GATHERING",
+  "state": "PROPOSING",
   "intensity": 2,
-  "since_ts": "2026-04-24T20:57:19.766117+00:00",
-  "last_tick_ts": "2026-04-24T21:37:16.123490+00:00",
-  "tick_count_in_state": 3,
-  "next_tick_delay_seconds": 420,
-  "last_observation": "Kris returned for PIE session 2; action bridge restored; alives cluster-following him near spawn, still far from the south wall"
+  "since_ts": "2026-04-24T22:10:00.515513+00:00",
+  "last_tick_ts": "2026-04-24T22:10:00.515581+00:00",
+  "tick_count_in_state": 1,
+  "next_tick_delay_seconds": 600,
+  "last_observation": "v2 shell is complete (floor+4walls+roof+door); interior still empty; pushing Hearth+Fire as the next-priority interior object"
 }
