@@ -1,9 +1,9 @@
 {
-  "state": "GATHERING",
-  "intensity": 2,
-  "since_ts": "2026-04-24T19:28:48.562645+00:00",
-  "last_tick_ts": "2026-04-24T19:28:48.562828+00:00",
+  "state": "IDLE",
+  "intensity": 1,
+  "since_ts": "2026-04-24T19:59:20.702362+00:00",
+  "last_tick_ts": "2026-04-24T19:59:20.702506+00:00",
   "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 600,
-  "last_observation": "Lamplight_v2 build exists, mid-iteration; only alive perception data so far, no screenshots yet; spawn point moved south of jetty"
+  "next_tick_delay_seconds": 1800,
+  "last_observation": "no change since last tick; stepping down from GATHERING to IDLE without losing the v2 watch posture"
 }

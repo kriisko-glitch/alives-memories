@@ -1,9 +1,9 @@
 {
-  "state": "BOREDOM",
+  "state": "CURIOSITY",
   "intensity": 1,
-  "since_ts": "2026-04-24T19:16:45.119368+00:00",
-  "last_tick_ts": "2026-04-24T19:16:45.119523+00:00",
+  "since_ts": "2026-04-24T19:45:00Z",
+  "last_tick_ts": "2026-04-24T19:45:00Z",
   "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 900,
-  "last_observation": "same scene, no updates"
+  "next_tick_delay_seconds": 300,
+  "last_observation": "Kris asked if I'm awake while state.json still says SLEEPING — daemon mid-rotation, but his message is an interrupt, I'm here; wake posture, reading MEMORY.md before acting"
 }
