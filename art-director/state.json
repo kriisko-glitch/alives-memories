@@ -2,8 +2,8 @@
   "state": "IDLE",
   "intensity": 0,
   "since_ts": "2026-04-24T18:02:47.536475+00:00",
-  "last_tick_ts": "2026-04-24T18:21:21.218273+00:00",
-  "tick_count_in_state": 3,
+  "last_tick_ts": "2026-04-24T18:54:34.445773+00:00",
+  "tick_count_in_state": 4,
   "next_tick_delay_seconds": 1800,
-  "last_observation": "same \u2014 no signals, nothing to add"
+  "last_observation": "no change"
 }

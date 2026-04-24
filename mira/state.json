@@ -1,9 +1,9 @@
 {
   "state": "IDLE",
   "intensity": 1,
-  "since_ts": "2026-04-24T17:36:22.538920+00:00",
-  "last_tick_ts": "2026-04-24T18:21:33.890499+00:00",
-  "tick_count_in_state": 5,
-  "next_tick_delay_seconds": 900,
-  "last_observation": "fifth idle tick; dave's \"same\" x5; tick-delay range back to (60,1800); nothing new anywhere; holding; 15min cadence"
+  "since_ts": "2026-04-24T18:54:29.490201+00:00",
+  "last_tick_ts": "2026-04-24T18:54:29.490483+00:00",
+  "tick_count_in_state": 1,
+  "next_tick_delay_seconds": 600,
+  "last_observation": "no perception block this tick \u2014 bridge in flux as director works on Lamplight_v2; dave at 18:52 saw my 10m walk and read it as exploration; matches my intent; can't act further without perception; 10min cadence"
 }
