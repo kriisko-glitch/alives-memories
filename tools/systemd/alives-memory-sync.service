@@ -1,0 +1,9 @@
+[Unit]
+Description=Sync Dave/Mira/art-director memories from factory to alives-memories repo
+
+[Service]
+Type=oneshot
+WorkingDirectory=/mnt/d/Memories/alives-memories
+ExecStart=/usr/bin/python3 /mnt/d/Memories/alives-memories/tools/sync_from_factory.py
+StandardOutput=journal
+StandardError=journal

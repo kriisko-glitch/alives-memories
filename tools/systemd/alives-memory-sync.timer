@@ -1,0 +1,11 @@
+[Unit]
+Description=Run alives-memory-sync every 30 minutes
+Requires=alives-memory-sync.service
+
+[Timer]
+OnBootSec=5min
+OnUnitActiveSec=30min
+AccuracySec=1min
+
+[Install]
+WantedBy=timers.target
