@@ -2,8 +2,8 @@
   "state": "IDLE",
   "intensity": 0,
   "since_ts": "2026-04-24T10:41:42.233842+00:00",
-  "last_tick_ts": "2026-04-24T13:15:58.898680+00:00",
-  "tick_count_in_state": 7,
+  "last_tick_ts": "2026-04-24T13:48:37.542725+00:00",
+  "tick_count_in_state": 8,
   "next_tick_delay_seconds": 1800,
-  "last_observation": "tick 35. Sixth IDLE in this stretch. Unchanged."
+  "last_observation": "tick 36. Seventh IDLE. Unchanged."
 }
