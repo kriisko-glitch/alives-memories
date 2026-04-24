@@ -1,9 +1,9 @@
 {
-  "state": "EXPLORATION",
+  "state": "BOREDOM",
   "intensity": 1,
-  "since_ts": "2026-04-24T18:45:35.698263+00:00",
-  "last_tick_ts": "2026-04-24T18:52:32.449562+00:00",
-  "tick_count_in_state": 2,
-  "next_tick_delay_seconds": 600,
-  "last_observation": "turned left 90 to face east; Mira walked ~10m during my turn (now 10.2m south instead of 2m east); not chasing \u2014 she keeps being adjacent then walking; world events are continuous, my perception is snapshot"
+  "since_ts": "2026-04-24T19:16:45.119368+00:00",
+  "last_tick_ts": "2026-04-24T19:16:45.119523+00:00",
+  "tick_count_in_state": 1,
+  "next_tick_delay_seconds": 900,
+  "last_observation": "same scene, no updates"
 }

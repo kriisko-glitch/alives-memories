@@ -1,9 +1,9 @@
 {
-  "state": "IDLE",
-  "intensity": 0,
-  "since_ts": "2026-04-24T18:02:47.536475+00:00",
-  "last_tick_ts": "2026-04-24T18:54:34.445773+00:00",
-  "tick_count_in_state": 4,
-  "next_tick_delay_seconds": 1800,
-  "last_observation": "no change"
+  "state": "GATHERING",
+  "intensity": 2,
+  "since_ts": "2026-04-24T19:28:48.562645+00:00",
+  "last_tick_ts": "2026-04-24T19:28:48.562828+00:00",
+  "tick_count_in_state": 1,
+  "next_tick_delay_seconds": 600,
+  "last_observation": "Lamplight_v2 build exists, mid-iteration; only alive perception data so far, no screenshots yet; spawn point moved south of jetty"
 }

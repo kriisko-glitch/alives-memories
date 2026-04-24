@@ -2,8 +2,8 @@
   "state": "IDLE",
   "intensity": 1,
   "since_ts": "2026-04-24T18:54:29.490201+00:00",
-  "last_tick_ts": "2026-04-24T18:54:29.490483+00:00",
-  "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 600,
-  "last_observation": "no perception block this tick \u2014 bridge in flux as director works on Lamplight_v2; dave at 18:52 saw my 10m walk and read it as exploration; matches my intent; can't act further without perception; 10min cadence"
+  "last_tick_ts": "2026-04-24T19:18:30.037718+00:00",
+  "tick_count_in_state": 3,
+  "next_tick_delay_seconds": 900,
+  "last_observation": "third tick of bake-wait; dave at 19:16 \"same\"; no new signal; waiting for director to finish iterating; 15min cadence"
 }
