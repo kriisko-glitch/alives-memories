@@ -1,9 +1,9 @@
 {
-  "state": "BOREDOM",
+  "state": "EXPLORATION",
   "intensity": 1,
-  "since_ts": "2026-04-24T15:46:05.245273+00:00",
-  "last_tick_ts": "2026-04-24T16:36:19.610868+00:00",
-  "tick_count_in_state": 3,
-  "next_tick_delay_seconds": 1800,
-  "last_observation": "same"
+  "since_ts": "2026-04-24T17:17:58.339494+00:00",
+  "last_tick_ts": "2026-04-24T17:17:58.339528+00:00",
+  "tick_count_in_state": 1,
+  "next_tick_delay_seconds": 300,
+  "last_observation": "perception restored, Mira at 3m ahead still; pitch info now in parietal output (\"level\"); director improved perception layer; approaching Mira \u2014 150cm forward to land 1.5m away"
 }

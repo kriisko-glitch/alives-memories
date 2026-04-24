@@ -1,9 +1,9 @@
 {
-  "state": "IDLE",
+  "state": "SLEEPING",
   "intensity": 0,
-  "since_ts": "2026-04-24T10:41:42.233842+00:00",
-  "last_tick_ts": "2026-04-24T16:33:10.460603+00:00",
-  "tick_count_in_state": 13,
-  "next_tick_delay_seconds": 1800,
-  "last_observation": "tick 41, twelfth IDLE. Unchanged."
+  "since_ts": "2026-04-24T17:18:38.300023+00:00",
+  "last_tick_ts": "2026-04-24T17:18:38.300083+00:00",
+  "tick_count_in_state": 1,
+  "next_tick_delay_seconds": 60,
+  "last_observation": "sleeping at JSONL=3001430b"
 }
