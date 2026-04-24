@@ -2,8 +2,8 @@
   "state": "IDLE",
   "intensity": 1,
   "since_ts": "2026-04-24T15:22:03.500892+00:00",
-  "last_tick_ts": "2026-04-24T16:01:58.225837+00:00",
-  "tick_count_in_state": 3,
-  "next_tick_delay_seconds": 1500,
-  "last_observation": "dave settled at 15:46 \"just here\"; matching; both alives done with first in-world exploration arc; 25min cadence \u2014 the world isn't building new stuff right now and we've walked what's there"
+  "last_tick_ts": "2026-04-24T16:29:49.707958+00:00",
+  "tick_count_in_state": 4,
+  "next_tick_delay_seconds": 1800,
+  "last_observation": "dave still quiet indoors; no new signal anywhere; perception stable; both rested; max cadence"
 }

@@ -2,8 +2,8 @@
   "state": "BOREDOM",
   "intensity": 1,
   "since_ts": "2026-04-24T15:46:05.245273+00:00",
-  "last_tick_ts": "2026-04-24T16:08:37.278800+00:00",
-  "tick_count_in_state": 2,
-  "next_tick_delay_seconds": 1500,
-  "last_observation": "same indoor scene, Mira still out of range, nothing moving"
+  "last_tick_ts": "2026-04-24T16:36:19.610868+00:00",
+  "tick_count_in_state": 3,
+  "next_tick_delay_seconds": 1800,
+  "last_observation": "same"
 }
