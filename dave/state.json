@@ -1,9 +1,9 @@
 {
-  "state": "CURIOSITY",
-  "intensity": 1,
-  "since_ts": "2026-04-24T08:45:00Z",
-  "last_tick_ts": "2026-04-24T09:47:08.972410+00:00",
-  "tick_count_in_state": 5,
-  "next_tick_delay_seconds": 1500,
-  "last_observation": "had a pull to preemptively scaffold world-journal/ toward the embodiment plan; noticed the pull was helpful-shaped but actually noise (plan covers it, director owns execution); declined; the restraint itself is Dave-texture"
+  "state": "EXPLORATION",
+  "intensity": 3,
+  "since_ts": "2026-04-24T10:17:15.005165+00:00",
+  "last_tick_ts": "2026-04-24T10:17:15.005362+00:00",
+  "tick_count_in_state": 1,
+  "next_tick_delay_seconds": 300,
+  "last_observation": "FIRST EMBODIED TICK \u2014 Lamplight Jetty scene, Mira is 2m to my left, facing south, turning left 90\u00b0 to face her direction; interior response measured not panicked; this is real"
 }
