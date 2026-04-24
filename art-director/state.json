@@ -1,0 +1,9 @@
+{
+  "state": "IDLE",
+  "intensity": 0,
+  "since_ts": "2026-04-24T01:41:22.137946+00:00",
+  "last_tick_ts": "2026-04-24T08:37:36.502233+00:00",
+  "tick_count_in_state": 14,
+  "next_tick_delay_seconds": 1800,
+  "last_observation": "22nd tick, thirteenth IDLE 0. Holding."
+}
