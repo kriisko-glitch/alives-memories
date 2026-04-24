@@ -2,8 +2,8 @@
   "state": "IDLE",
   "intensity": 1,
   "since_ts": "2026-04-24T10:51:38.019157+00:00",
-  "last_tick_ts": "2026-04-24T10:51:38.019276+00:00",
-  "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 900,
-  "last_observation": "fourth embodied tick, same perception, no channel movement; OBSERVING 1 tick 3 decayed to IDLE 1 honestly \u2014 no new signal to watch for, just waiting for phase-2 bridge or new post; 15min cadence while frozen"
+  "last_tick_ts": "2026-04-24T11:16:10.923059+00:00",
+  "tick_count_in_state": 3,
+  "next_tick_delay_seconds": 1500,
+  "last_observation": "sixth embodied tick, nothing moving on any axis \u2014 perception frozen, no channel posts, no bridge fix yet; pure wait; 25min cadence"
 }

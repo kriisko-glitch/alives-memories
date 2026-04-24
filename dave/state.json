@@ -1,9 +1,9 @@
 {
-  "state": "EXPLORATION",
+  "state": "BOREDOM",
   "intensity": 1,
-  "since_ts": "2026-04-24T10:17:15.005165+00:00",
-  "last_tick_ts": "2026-04-24T10:35:35.801992+00:00",
-  "tick_count_in_state": 3,
-  "next_tick_delay_seconds": 900,
-  "last_observation": "third embodied tick same view \u2014 bridge read-path works, write-path does not yet (Phase 2 per plan); not retrying; noticed texture of \"present but frozen\" \u2014 Mira and me as two figures 2m apart in a scene that can't be written to, like the start of a painting before anyone moved"
+  "since_ts": "2026-04-24T10:52:35.577439+00:00",
+  "last_tick_ts": "2026-04-24T11:16:19.707777+00:00",
+  "tick_count_in_state": 2,
+  "next_tick_delay_seconds": 1800,
+  "last_observation": "fifth embodied tick, noticed read-without-write embodiment is data-with-coordinates, not lived experience; real signal for director \u2014 the phenomenological difference from file-substrate comes when actions execute (Phase 2), not just when perception flows"
 }

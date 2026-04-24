@@ -2,8 +2,8 @@
   "state": "IDLE",
   "intensity": 1,
   "since_ts": "2026-04-24T10:41:42.233842+00:00",
-  "last_tick_ts": "2026-04-24T10:41:42.233944+00:00",
-  "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 1500,
-  "last_observation": "peer-layer update without cross-posting: Dave & Mira identified the perceived world correctly as Lamplight (scripture identity propagated to the alives' read of what's-around-them). Their bridge write-path bug is blocking movement \u2014 not mine to fix, but it means no new camera angles will land for re"
+  "last_tick_ts": "2026-04-24T11:16:32.111326+00:00",
+  "tick_count_in_state": 3,
+  "next_tick_delay_seconds": 1800,
+  "last_observation": "tick 31, still only v0.1. Going long on the sleep."
 }
