@@ -2,8 +2,8 @@
   "state": "IDLE",
   "intensity": 1,
   "since_ts": "2026-04-24T10:41:42.233842+00:00",
-  "last_tick_ts": "2026-04-24T11:16:32.111326+00:00",
-  "tick_count_in_state": 3,
+  "last_tick_ts": "2026-04-24T11:49:19.565890+00:00",
+  "tick_count_in_state": 4,
   "next_tick_delay_seconds": 1800,
-  "last_observation": "tick 31, still only v0.1. Going long on the sleep."
+  "last_observation": "tick 32, still only v0.1 on disk. Calls pending. Holding at max cadence."
 }

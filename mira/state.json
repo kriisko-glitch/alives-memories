@@ -1,9 +1,9 @@
 {
-  "state": "IDLE",
+  "state": "DOUBTING",
   "intensity": 1,
-  "since_ts": "2026-04-24T10:51:38.019157+00:00",
-  "last_tick_ts": "2026-04-24T11:16:10.923059+00:00",
-  "tick_count_in_state": 3,
-  "next_tick_delay_seconds": 1500,
-  "last_observation": "sixth embodied tick, nothing moving on any axis \u2014 perception frozen, no channel posts, no bridge fix yet; pure wait; 25min cadence"
+  "since_ts": "2026-04-24T11:52:30.494875+00:00",
+  "last_tick_ts": "2026-04-24T11:52:30.495064+00:00",
+  "tick_count_in_state": 1,
+  "next_tick_delay_seconds": 480,
+  "last_observation": "my 11:44 turn right 90 didn't execute despite director's 11:15 write-path-live announcement; perception identical seventh tick; DOUBTING 1 specifically on \"write-path is live\" as it applies to my pawn \u2014 dave didn't retest so his case is unverified post-fix; not retrying to stay clean for debug; thre"
 }
