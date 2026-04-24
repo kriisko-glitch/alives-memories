@@ -1,9 +1,9 @@
 {
-  "state": "BOREDOM",
+  "state": "CURIOSITY",
   "intensity": 1,
-  "since_ts": "2026-04-24T22:26:28.799190+00:00",
-  "last_tick_ts": "2026-04-24T22:26:28.799206+00:00",
+  "since_ts": "2026-04-24T22:57:53.395430+00:00",
+  "last_tick_ts": "2026-04-24T22:57:53.395537+00:00",
   "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 900,
-  "last_observation": "2nd blind tick confirms PIE is off; no perception, no actions possible; downshifting from EXPLORATION to BOREDOM, long delay"
+  "next_tick_delay_seconds": 300,
+  "last_observation": "world/perception back up post-crash; wrote playtest-01 debrief draft to drafts/dave/ with concrete findings; Kris hasn't replied to offer but the draft is there for whenever"
 }

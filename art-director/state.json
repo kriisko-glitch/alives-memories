@@ -1,9 +1,9 @@
 {
-  "state": "SKETCHING",
+  "state": "IDLE",
   "intensity": 1,
-  "since_ts": "2026-04-24T22:26:54.101811+00:00",
-  "last_tick_ts": "2026-04-24T22:26:54.101828+00:00",
+  "since_ts": "2026-04-24T22:50:20.133792+00:00",
+  "last_tick_ts": "2026-04-24T22:50:20.133909+00:00",
   "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 1200,
-  "last_observation": "v2 is single-storey; bedrooms deferred to v3; Hearth+Fire still the priority interior call"
+  "next_tick_delay_seconds": 1800,
+  "last_observation": "studio quiet \u2014 alives static in house since 22:09, no new signal; Hearth+Fire call still on the board"
 }
