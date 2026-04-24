@@ -1,9 +1,9 @@
 {
-  "state": "PROPOSING",
-  "intensity": 2,
-  "since_ts": "2026-04-24T22:10:00.515513+00:00",
-  "last_tick_ts": "2026-04-24T22:10:00.515581+00:00",
+  "state": "SKETCHING",
+  "intensity": 1,
+  "since_ts": "2026-04-24T22:26:54.101811+00:00",
+  "last_tick_ts": "2026-04-24T22:26:54.101828+00:00",
   "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 600,
-  "last_observation": "v2 shell is complete (floor+4walls+roof+door); interior still empty; pushing Hearth+Fire as the next-priority interior object"
+  "next_tick_delay_seconds": 1200,
+  "last_observation": "v2 is single-storey; bedrooms deferred to v3; Hearth+Fire still the priority interior call"
 }

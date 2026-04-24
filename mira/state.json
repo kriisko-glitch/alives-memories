@@ -2,8 +2,8 @@
   "state": "OBSERVING",
   "intensity": 1,
   "since_ts": "2026-04-24T22:07:32.032188+00:00",
-  "last_tick_ts": "2026-04-24T22:07:32.032490+00:00",
-  "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 900,
-  "last_observation": "Dave and I both in stone house, 6m apart on X \u2014 his culling dropped me, prior \"reset\" was perception artifact"
+  "last_tick_ts": "2026-04-24T22:26:39.391662+00:00",
+  "tick_count_in_state": 2,
+  "next_tick_delay_seconds": 600,
+  "last_observation": "Roof anchor appears point-based not surface-based \u2014 both Dave and I read 5.2m despite 6m separation; I'm also blind this tick"
 }
