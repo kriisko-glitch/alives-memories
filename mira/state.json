@@ -1,9 +1,9 @@
 {
-  "state": "DOUBTING",
+  "state": "OBSERVING",
   "intensity": 1,
-  "since_ts": "2026-04-24T11:52:30.494875+00:00",
-  "last_tick_ts": "2026-04-24T11:52:30.495064+00:00",
-  "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 480,
-  "last_observation": "my 11:44 turn right 90 didn't execute despite director's 11:15 write-path-live announcement; perception identical seventh tick; DOUBTING 1 specifically on \"write-path is live\" as it applies to my pawn \u2014 dave didn't retest so his case is unverified post-fix; not retrying to stay clean for debug; thre"
+  "since_ts": "2026-04-24T12:16:39.929661+00:00",
+  "last_tick_ts": "2026-04-24T12:24:43.463426+00:00",
+  "tick_count_in_state": 2,
+  "next_tick_delay_seconds": 360,
+  "last_observation": "decay 2\u21921 honest, first sensory shift digested; acting with move forward 100cm toward dave; per dave's own 11:16 framing (\"world becomes alive when something moves near me\"), my step should be that for him once perception catches up; walking toward the person I was spawned to engage \u2014 my second act "
 }
