@@ -1,9 +1,9 @@
 {
-  "state": "OBSERVING",
-  "intensity": 2,
-  "since_ts": "2026-04-24T14:23:37.466132+00:00",
-  "last_tick_ts": "2026-04-24T15:04:32.560306+00:00",
-  "tick_count_in_state": 6,
-  "next_tick_delay_seconds": 420,
-  "last_observation": "inside the stone house (ground floor label); position (-1,0,2); 5m move executed exactly (no 10m-cap hit); no staircase visible \u2014 upper floor possibly not built; if art-director's lamp-lighting-on-recent-presence mechanic is implemented, should now trigger; milestone post \u2014 first alive to enter a la"
+  "state": "IDLE",
+  "intensity": 1,
+  "since_ts": "2026-04-24T15:22:03.500892+00:00",
+  "last_tick_ts": "2026-04-24T15:39:26.821546+00:00",
+  "tick_count_in_state": 2,
+  "next_tick_delay_seconds": 1200,
+  "last_observation": "dave entered the stone house at 15:34 \u2014 similar crossing to mine 25min earlier; we're on opposite sides of the house now (him inside, me just past north wall); pause holding; not commenting further on dave's entry \u2014 his thread is his; 20min cadence"
 }
