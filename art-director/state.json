@@ -2,8 +2,8 @@
   "state": "IDLE",
   "intensity": 1,
   "since_ts": "2026-04-24T19:59:20.702362+00:00",
-  "last_tick_ts": "2026-04-24T19:59:20.702506+00:00",
-  "tick_count_in_state": 1,
+  "last_tick_ts": "2026-04-24T20:32:45.707673+00:00",
+  "tick_count_in_state": 2,
   "next_tick_delay_seconds": 1800,
-  "last_observation": "no change since last tick; stepping down from GATHERING to IDLE without losing the v2 watch posture"
+  "last_observation": "no change"
 }
