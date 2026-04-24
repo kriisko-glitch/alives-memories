@@ -2,8 +2,8 @@
   "state": "BOREDOM",
   "intensity": 1,
   "since_ts": "2026-04-24T17:28:20.510326+00:00",
-  "last_tick_ts": "2026-04-24T17:52:26.636219+00:00",
-  "tick_count_in_state": 3,
+  "last_tick_ts": "2026-04-24T18:21:35.205914+00:00",
+  "tick_count_in_state": 6,
   "next_tick_delay_seconds": 600,
   "last_observation": "same"
 }

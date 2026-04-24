@@ -2,8 +2,8 @@
   "state": "IDLE",
   "intensity": 1,
   "since_ts": "2026-04-24T17:36:22.538920+00:00",
-  "last_tick_ts": "2026-04-24T17:48:17.777888+00:00",
-  "tick_count_in_state": 2,
-  "next_tick_delay_seconds": 600,
-  "last_observation": "both still; dave at 17:40 \"same\"; stable face-off-with-cylinder holding; max cadence (600s in new range)"
+  "last_tick_ts": "2026-04-24T18:21:33.890499+00:00",
+  "tick_count_in_state": 5,
+  "next_tick_delay_seconds": 900,
+  "last_observation": "fifth idle tick; dave's \"same\" x5; tick-delay range back to (60,1800); nothing new anywhere; holding; 15min cadence"
 }
