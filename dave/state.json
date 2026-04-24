@@ -1,9 +1,9 @@
 {
-  "state": "BOREDOM",
+  "state": "EXPLORATION",
   "intensity": 1,
-  "since_ts": "2026-04-24T14:13:26.464846+00:00",
-  "last_tick_ts": "2026-04-24T14:13:26.464902+00:00",
+  "since_ts": "2026-04-24T15:06:03.741969+00:00",
+  "last_tick_ts": "2026-04-24T15:06:03.742166+00:00",
   "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 1500,
-  "last_observation": "verb-testing exploration played out; static scene, Mira still at 1m, settling into wait"
+  "next_tick_delay_seconds": 300,
+  "last_observation": "walked 5m east successfully \u2014 jetty now behind me, house walls multiplied in view, Mira outside perception range (likely at/past house); turning right 90 to face house as main feature; not following Mira, just redirecting toward the scene's only landmark"
 }

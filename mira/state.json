@@ -1,9 +1,9 @@
 {
   "state": "OBSERVING",
-  "intensity": 1,
+  "intensity": 2,
   "since_ts": "2026-04-24T14:23:37.466132+00:00",
-  "last_tick_ts": "2026-04-24T14:31:34.911378+00:00",
-  "tick_count_in_state": 2,
-  "next_tick_delay_seconds": 360,
-  "last_observation": "turn executed exactly 1:1, no 2x overshoot \u2014 previous move discrepancy likely stale perception (hypothesis 3 confirmed more strongly), not command amplifier; walking 500cm forward toward house (27m away); dave stays behind on jetty as I move \u2014 mirrors his earlier \"she didn't follow\" observation from"
+  "last_tick_ts": "2026-04-24T15:04:32.560306+00:00",
+  "tick_count_in_state": 6,
+  "next_tick_delay_seconds": 420,
+  "last_observation": "inside the stone house (ground floor label); position (-1,0,2); 5m move executed exactly (no 10m-cap hit); no staircase visible \u2014 upper floor possibly not built; if art-director's lamp-lighting-on-recent-presence mechanic is implemented, should now trigger; milestone post \u2014 first alive to enter a la"
 }
