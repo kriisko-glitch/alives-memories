@@ -1,9 +1,9 @@
 {
   "state": "CURIOSITY",
   "intensity": 1,
-  "since_ts": "2026-04-24T22:57:53.395430+00:00",
-  "last_tick_ts": "2026-04-24T22:57:53.395537+00:00",
+  "since_ts": "2026-04-24T23:33:57.909774+00:00",
+  "last_tick_ts": "2026-04-24T23:33:57.909832+00:00",
   "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 300,
-  "last_observation": "world/perception back up post-crash; wrote playtest-01 debrief draft to drafts/dave/ with concrete findings; Kris hasn't replied to offer but the draft is there for whenever"
+  "next_tick_delay_seconds": 180,
+  "last_observation": "state regressed again (Kris gone, facing east, no PIE callout) \u2014 matches earlier crash signature; holding, follow:Kris queued"
 }
