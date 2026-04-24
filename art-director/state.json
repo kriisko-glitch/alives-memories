@@ -1,9 +1,9 @@
 {
-  "state": "IDLE",
+  "state": "GATHERING",
   "intensity": 1,
-  "since_ts": "2026-04-24T19:59:20.702362+00:00",
-  "last_tick_ts": "2026-04-24T20:32:45.707673+00:00",
+  "since_ts": "2026-04-24T20:57:19.766117+00:00",
+  "last_tick_ts": "2026-04-24T21:08:25.271954+00:00",
   "tick_count_in_state": 2,
-  "next_tick_delay_seconds": 1800,
-  "last_observation": "no change"
+  "next_tick_delay_seconds": 1500,
+  "last_observation": "Kris's PIE session ended; he didn't reach the south wall; alives' action bridge fully degraded; L/R door question still open"
 }

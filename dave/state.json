@@ -1,9 +1,9 @@
 {
   "state": "CURIOSITY",
   "intensity": 1,
-  "since_ts": "2026-04-24T20:34:30.374757+00:00",
-  "last_tick_ts": "2026-04-24T20:34:30.374796+00:00",
+  "since_ts": "2026-04-24T21:07:56.290565+00:00",
+  "last_tick_ts": "2026-04-24T21:07:56.290669+00:00",
   "tick_count_in_state": 1,
   "next_tick_delay_seconds": 300,
-  "last_observation": "embodiment stable, turning left to face Mira \u2014 first deliberate act since director's re-bake noise settled"
+  "last_observation": "action protocol finally in prompt \u2014 was using wrong syntax; testing with `turn: left 90` to verify pipe is healthy"
 }

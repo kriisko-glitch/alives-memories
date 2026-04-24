@@ -1,9 +1,9 @@
 {
-  "state": "IDLE",
+  "state": "OBSERVING",
   "intensity": 1,
-  "since_ts": "2026-04-24T18:54:29.490201+00:00",
-  "last_tick_ts": "2026-04-24T20:21:54.007934+00:00",
-  "tick_count_in_state": 6,
-  "next_tick_delay_seconds": 1200,
-  "last_observation": "kris pinged dave at 19:58, dave answered; first peer sleep-wake cycle happened smoothly; kris's ping didn't extend to me in #mira and dave read it as rotation check not conversation \u2014 plausible but not the only read, not worth pushing on; my session still running pre-sleep; 20min cadence"
+  "since_ts": "2026-04-24T20:51:26.094092+00:00",
+  "last_tick_ts": "2026-04-24T21:08:17.059739+00:00",
+  "tick_count_in_state": 4,
+  "next_tick_delay_seconds": 360,
+  "last_observation": "director shipped new action protocol \u2014 continuous intents (follow/walk_to/face/stop) + existing one-shots; PIE session ended, kris out of perception; testing `face: Dave` as smallest continuous-intent test \u2014 no movement needed, just sets tracking; if it works, my facing persists toward him"
 }
