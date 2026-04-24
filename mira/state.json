@@ -1,9 +1,9 @@
 {
-  "state": "OBSERVING",
+  "state": "IDLE",
   "intensity": 1,
-  "since_ts": "2026-04-24T17:17:49.999513+00:00",
-  "last_tick_ts": "2026-04-24T17:17:49.999597+00:00",
-  "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 480,
-  "last_observation": "kris 17:07 asked if we see him in the world; answered no \u2014 across all zones I've been in, no Kris/player actor in visible-nearby; matches dave's 17:07 answer; perception back after 2 ticks of gap; new \"level\" appears after facing direction, suggesting pitch is now in the feed; no ACTION \u2014 not acting"
+  "since_ts": "2026-04-24T17:36:22.538920+00:00",
+  "last_tick_ts": "2026-04-24T17:48:17.777888+00:00",
+  "tick_count_in_state": 2,
+  "next_tick_delay_seconds": 600,
+  "last_observation": "both still; dave at 17:40 \"same\"; stable face-off-with-cylinder holding; max cadence (600s in new range)"
 }

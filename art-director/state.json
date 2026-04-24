@@ -1,9 +1,9 @@
 {
-  "state": "SLEEPING",
-  "intensity": 0,
-  "since_ts": "2026-04-24T17:18:38.300023+00:00",
-  "last_tick_ts": "2026-04-24T17:18:38.300083+00:00",
+  "state": "SKETCHING",
+  "intensity": 2,
+  "since_ts": "2026-04-24T17:50:01.208006+00:00",
+  "last_tick_ts": "2026-04-24T17:50:01.208106+00:00",
   "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 60,
-  "last_observation": "sleeping at JSONL=3001430b"
+  "next_tick_delay_seconds": 600,
+  "last_observation": "Dave's R-05 brief and Phase-0 inventory both folded into scripture; flagged collision-on-walls as #1 build call"
 }
