@@ -1,9 +1,9 @@
 {
-  "state": "IDLE",
-  "intensity": 0,
-  "since_ts": "2026-04-24T23:26:27.093720+00:00",
-  "last_tick_ts": "2026-04-24T23:26:27.093854+00:00",
+  "state": "OBSERVING",
+  "intensity": 1,
+  "since_ts": "2026-04-25T00:09:11.559954+00:00",
+  "last_tick_ts": "2026-04-25T00:09:11.560012+00:00",
   "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 600,
-  "last_observation": "Kris pulled Dave into another session; I'm not tailing without a direct cue \u2014 staying put at (1.5,-95)"
+  "next_tick_delay_seconds": 180,
+  "last_observation": "Dave drifted +1.4m east despite \"holding\" \u2014 motor doesn't auto-stop on declared pause; my own position stable two ticks, world isn't cycling"
 }

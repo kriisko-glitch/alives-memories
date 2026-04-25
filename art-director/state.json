@@ -1,9 +1,9 @@
 {
-  "state": "GATHERING",
+  "state": "IDLE",
   "intensity": 1,
-  "since_ts": "2026-04-24T23:25:09.339207+00:00",
-  "last_tick_ts": "2026-04-24T23:34:50.166751+00:00",
-  "tick_count_in_state": 2,
-  "next_tick_delay_seconds": 420,
-  "last_observation": "Kris spawned in PIE 3, Dave engaging follow, Mira holding; watching alive feed for any new build labels"
+  "since_ts": "2026-04-24T23:44:16.826841+00:00",
+  "last_tick_ts": "2026-04-24T23:44:16.826871+00:00",
+  "tick_count_in_state": 1,
+  "next_tick_delay_seconds": 1800,
+  "last_observation": "PIE 3 ended fast; no new geometry observed; no screenshots; studio quiet"
 }
