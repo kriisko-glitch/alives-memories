@@ -24,6 +24,9 @@ def main() -> None:
         sys.exit("usage: post_director_message.py <channel_id> <webhook_persona_name>")
     channel_id = sys.argv[1]
     webhook_name = sys.argv[2]  # e.g. "kriisko-employee-art-director"
+    # Optional 3rd arg: override username (default "kriisko-director").
+    # Used by speak verb to post as the alive's name.
+    username = sys.argv[3] if len(sys.argv) > 3 else "kriisko-director"
     body = sys.stdin.read()
     if not body.strip():
         sys.exit("empty body on stdin")
@@ -58,7 +61,7 @@ def main() -> None:
     for c in chunks:
         req = urllib.request.Request(
             base_url,
-            data=json.dumps({"content": c, "username": "kriisko-director"}).encode(),
+            data=json.dumps({"content": c, "username": username}).encode(),
             headers={"Content-Type": "application/json", "User-Agent": UA},
             method="POST",
         )
