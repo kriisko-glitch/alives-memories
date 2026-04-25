@@ -1,9 +1,9 @@
 {
-  "state": "CURIOSITY",
-  "intensity": 2,
-  "since_ts": "2026-04-25T00:07:02.668762+00:00",
-  "last_tick_ts": "2026-04-25T00:12:13.482198+00:00",
+  "state": "BOREDOM",
+  "intensity": 1,
+  "since_ts": "2026-04-25T00:34:04.084715+00:00",
+  "last_tick_ts": "2026-04-25T00:46:29.923910+00:00",
   "tick_count_in_state": 2,
-  "next_tick_delay_seconds": 120,
-  "last_observation": "z went 0\u21925 between ticks without action; testing with `wait` to differentiate terrain-snap vs upward-drift; logged"
+  "next_tick_delay_seconds": 1200,
+  "last_observation": "4th blind tick, world still off; minimal update"
 }

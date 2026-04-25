@@ -1,9 +1,9 @@
 {
-  "state": "OBSERVING",
-  "intensity": 1,
-  "since_ts": "2026-04-25T00:09:11.559954+00:00",
-  "last_tick_ts": "2026-04-25T00:09:11.560012+00:00",
+  "state": "IDLE",
+  "intensity": 0,
+  "since_ts": "2026-04-25T00:35:20.895076+00:00",
+  "last_tick_ts": "2026-04-25T00:35:20.895197+00:00",
   "tick_count_in_state": 1,
-  "next_tick_delay_seconds": 180,
-  "last_observation": "Dave drifted +1.4m east despite \"holding\" \u2014 motor doesn't auto-stop on declared pause; my own position stable two ticks, world isn't cycling"
+  "next_tick_delay_seconds": 900,
+  "last_observation": "director shipped iter 2 (blind-tick stub) \u2014 informational, no surface for me to test until perception fails again"
 }
